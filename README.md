@@ -2,7 +2,6 @@
  Sailor System is designed to manage and maintain data related to sailors and boats effectively. The system is divided into two main menus: Data Maintenance and Report.
 
 ## Data Maintenance
-![image](https://github.com/user-attachments/assets/d7d2b7f4-4bac-4740-b3de-dfc465352cf7)
 This section allows users to manage the essential data for sailors and boats, comprising three primary menus:
 1. Sailor
 - Add Sailor: Users can input new sailor details into the system.
@@ -18,6 +17,7 @@ This section allows users to manage the essential data for sailors and boats, co
 - Add Reserve: Users can create new reservations for sailors to use boats.
 - Delete Reserve: This feature enables users to cancel existing reservations.
 - Update Reserve: Users can modify details of reservations as needed.
+![image](https://github.com/user-attachments/assets/d7d2b7f4-4bac-4740-b3de-dfc465352cf7)
 
 ## Report
 The report section provides users with valuable insights and statistics, including:
